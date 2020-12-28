@@ -6,9 +6,7 @@
 // 1- url 
 // 2- method: get/post/put/delete
 'use strict';
-
 // run my app : node index.js
-
 const Input = require('./lib/input.js');
 const HTTP = require('./lib/http.js');
 
